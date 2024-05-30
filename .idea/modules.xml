@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasicProgramming/BasicProgramming.iml" filepath="$PROJECT_DIR$/BasicProgramming/BasicProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alta-qe-rahmad.iml" filepath="$PROJECT_DIR$/alta-qe-rahmad.iml" />
+    </modules>
+  </component>
+</project>
